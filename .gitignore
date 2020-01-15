@@ -1,0 +1,6 @@
+testresults/
+access.log
+*.war
+*.dll
+**/target/
+**/bin/
