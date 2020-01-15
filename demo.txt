@@ -1,3 +1,4 @@
 change-1
 change-branch-2
 recurse-demo
+conflict-merge-demo-master
